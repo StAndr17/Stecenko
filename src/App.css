@@ -1,0 +1,23 @@
+.navbar {
+  border-bottom: 1px solid black;
+}
+
+.more-info-section {
+  position: relative;
+  bottom: 0;
+  border-top: 1px solid black;
+}
+
+.more-info-wrapper {
+  vertical-align: bottom !important;
+  top: auto;
+  margin-top: 20px;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.image img { height: 100%; object-fit: cover; }
